@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Contact
+# Contact Polly for New Orleans Jazz and Hot Swing
 edgertonpolly@gmail.com
 
 # Videos
